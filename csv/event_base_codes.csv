@@ -1,0 +1,150 @@
+EventBaseCode,EventRootCode,EventBaseCode_Desc
+10,1,"Make statement, not specified"
+11,1,Decline comment
+12,1,Make pessimistic comment
+13,1,Make optimistic comment
+14,1,Consider policy option
+15,1,Acknowledge or claim responsibility
+16,1,Deny responsibility
+17,1,Engage in symbolic act
+18,1,Make empathetic comment
+19,1,Express accord
+20,2,"Make an appeal or request, not specified"
+21,2,"Appeal for material cooperation, not specified"
+22,2,Appeal for diplomatic cooperation (such as policy support)
+23,2,"Appeal for aid, not specified"
+24,2,"Appeal for political reform, not specified"
+25,2,"Appeal to yield, not specified"
+26,2,Appeal to others to meet or negotiate
+27,2,Appeal to others to settle dispute
+28,2,Appeal to engage in or accept mediation
+30,3,"Express intent to cooperate, not specified"
+31,3,"Express intent to engage in material cooperation, not specified"
+32,3,Express intent to engage in diplomatic cooperation (such as policy support)
+33,3,"Express intent to provide material aid, not specified"
+34,3,"Express intent to institute political reform, not specified"
+35,3,"Express intent to yield, not specified"
+36,3,Express intent to meet or negotiate
+37,3,Express intent to settle dispute
+38,3,Express intent to accept mediation
+39,3,Express intent to mediate
+40,4,"Consult, not specified"
+41,4,Discuss by telephone
+42,4,Make a visit
+43,4,Host a visit
+44,4,Meet at a third location
+45,4,Mediate
+46,4,Engage in negotiation
+50,5,"Engage in diplomatic cooperation, not specified"
+51,5,Praise or endorse
+52,5,Defend verbally
+53,5,Rally support on behalf of
+54,5,Grant diplomatic recognition
+55,5,Apologize
+56,5,Forgive
+57,5,Sign formal agreement
+60,6,"Engage in material cooperation, not specified"
+61,6,Cooperate economically
+62,6,Cooperate militarily
+63,6,Engage in judicial cooperation
+64,6,Share intelligence or information
+70,7,"Provide aid, not specified"
+71,7,Provide economic aid
+72,7,Provide military aid
+73,7,Provide humanitarian aid
+74,7,Provide military protection or peacekeeping
+75,7,Grant asylum
+80,8,"Yield, not specified"
+81,8,"Ease administrative sanctions, not specified"
+82,8,Ease political dissent
+83,8,"Accede to requests or demands for political reform, not specified"
+84,8,"Return, release, not specified"
+85,8,"Ease economic sanctions, boycott, embargo"
+86,8,"Allow international involvement, not specified"
+87,8,De-escalate military engagement
+90,9,"Investigate, not specified"
+91,9,"Investigate crime, corruption"
+92,9,Investigate human rights abuses
+93,9,Investigate military action
+94,9,Investigate war crimes
+100,10,"Demand, not specified"
+101,10,"Demand material cooperation, not specified"
+102,10,Demand diplomatic cooperation (such as policy support)
+103,10,"Demand material aid, not specified"
+104,10,"Demand political reform, not specified"
+105,10,"Demand that target yields, not specified"
+106,10,"Demand meeting, negotiation"
+107,10,Demand settling of dispute
+108,10,Demand mediation
+110,11,"Disapprove, not specified"
+111,11,Criticize or denounce
+112,11,"Accuse, not specified"
+113,11,Rally opposition against
+114,11,Complain officially
+115,11,Bring lawsuit against
+116,11,Find guilty or liable (legally)
+120,12,"Reject, not specified"
+121,12,Reject material cooperation
+122,12,"Reject request or demand for material aid, not specified"
+123,12,"Reject request or demand for political reform, not specified"
+124,12,"Refuse to yield, not specified"
+125,12,"Reject proposal to meet, discuss, or negotiate"
+126,12,Reject mediation
+127,12,"Reject plan, agreement to settle dispute"
+128,12,"Defy norms, law"
+129,12,Veto
+130,13,"Threaten, not specified"
+131,13,"Threaten non-force, not specified"
+132,13,"Threaten with administrative sanctions, not specified"
+133,13,"Threaten with political dissent, protest"
+134,13,Threaten to halt negotiations
+135,13,Threaten to halt mediation
+136,13,Threaten to halt international involvement (non-mediation)
+137,13,Threaten with repression
+138,13,"Threaten with military force, not specified"
+139,13,Give ultimatum
+140,14,"Engage in political dissent, not specified"
+141,14,"Demonstrate or rally, not specified"
+142,14,"Conduct hunger strike, not specified"
+143,14,"Conduct strike or boycott, not specified"
+144,14,"Obstruct passage, block, not specified"
+145,14,"Protest violently, riot, not specified"
+150,15,"Demonstrate military or police power, not specified"
+151,15,Increase police alert status
+152,15,Increase military alert status
+153,15,Mobilize or increase police power
+154,15,Mobilize or increase armed forces
+155,15,Mobilize or increase cyber-forces
+160,16,"Reduce relations, not specified"
+161,16,Reduce or break diplomatic relations
+162,16,"Reduce or stop material aid, not specified"
+163,16,"Impose embargo, boycott, or sanctions"
+164,16,Halt negotiations
+165,16,Halt mediation
+166,16,"Expel or withdraw, not specified"
+170,17,"Coerce, not specified"
+171,17,"Seize or damage property, not specified"
+172,17,"Impose administrative sanctions, not specified"
+173,17,"Arrest, detain, or charge with legal action"
+174,17,Expel or deport individuals
+175,17,Use tactics of violent repression
+176,17,Attack cybernetically
+180,18,"Use unconventional violence, not specified"
+181,18,"Abduct, hijack, or take hostage"
+182,18,"Physically assault, not specified"
+183,18,"Conduct suicide, car, or other non-military bombing, not specified"
+184,18,Use as human shield
+185,18,Attempt to assassinate
+186,18,Assassinate
+190,19,"Use conventional military force, not specified"
+191,19,"Impose blockade, restrict movement"
+192,19,Occupy territory
+193,19,Fight with small arms and light weapons
+194,19,Fight with artillery and tanks
+195,19,"Employ aerial weapons, not specified"
+196,19,Violate ceasefire
+200,20,"Use unconventional mass violence, not specified"
+201,20,Engage in mass expulsion
+202,20,Engage in mass killings
+203,20,Engage in ethnic cleansing
+204,20,"Use weapons of mass destruction, not specified"

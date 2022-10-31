@@ -1,0 +1,603 @@
+ethnic_group_code,ethnic_group,ethnic_group_countries
+abk,Abkhaz (Abkhazians),"GEO, DEU, RUS, SYR, TUR, UKR"
+abr,Aboriginal-Australians (Aborigines),AUS
+ace,Acehnese (Achinese),"IDN, MYS"
+acg,Achang,"CHN, MMR"
+ach,Acholi,"SDN, UGA"
+adi,Adivasi,"IND, NPL"
+adj,Adjarians (Adzhars),"GEO, TUR"
+ady,Adyghe (Circasians),"BGR, DEU, IRQ, ISR, JOR, LBY, NLD, RUS, SYR, TUR, USA"
+aar,Afar,"DJI, ERI, ETH"
+afr,Afrikaners,"BWA, LSO, MWI, SWZ, ZAF, ZMB, ZWE"
+ahm,Ahmadis,"BGD, IND, IDN, PAK"
+ain,Ainu,"JPN, RUS"
+aja,Aja,"BEN, TGO"
+aka,Akan (Asante),"BEN, BFA, CAN, CIV, FRA, GBR, GHA, JAM, LBR, MLI, NGA, SUR, TGO, USA"
+aku,Aku (Creoles),GMB
+alb,Albanians,"ALB, CAN, CHE, DEU, DNK, GBR, GRC, HRV, ITA, MKD, MTN, NLD, NOR, ROM, SRB, SWE, TUR, UKR, USA"
+ale,Aleut,"RUS, USA"
+alg,Algonquian,USA
+alt,Altay (Altai),RUS
+alu,Alur,"COD, UGA"
+amb,Ambonese (Amboinese),IDN
+ame,Americo-Liberians,LBR
+amh,Amhara,"CAN, DJI, EGY, ERI, ETH, ISR, NOR, SDN, SOM, SWE, USA, YEM"
+anp,Angika speakers,"IND, NPL"
+nyn,Ankole,UGA
+apa,Apache,USA
+ara,Arab,"DZA, EGY, ISR, IRN, IRQ, JOR, KWT, LBN, LBY, MAR, MLI, SAU, SDN, SOM, SYR, TCD, TUN, USA, YEM"
+arg,Aragonese,ESP
+arp,Arapaho,USA
+arw,Arawak,"COL, GUY, SUR, VEN"
+atg,Argentinians,"ARG, AUS, BOL, BRA, CAN, CHE, CHL, DEU, ESP, FRA, GBR, ISR, ITA, JPN, MEX, PER, PRY, URY, USA, VEN"
+arm,Armenian,"ARG, ARM, AUS, AZE, BRA, CAN, CYP, FRA, GEO, GRC, RN, LBN, POL, RUS, SYR, TUR, UKR, USA"
+rup,Aromanians,"ALB, BGR, GRC, MKD, ROM, SRB"
+twi,Ashanti,"CIV, GHA"
+asa,Asian,"AUS, CHN, GBR, JPN, KOR, LAO, MMR, PRK, THA, UGA, USA, VNM, ZAF"
+asm,Assamese,IND
+asy,Assyrian,"AUS, BEL, CAN, CHE, DEU, DNK, FRA, IRN, IRQ, ITA, JOR, LBN, NLD, RUS, SWE, TUR, USA"
+ast,Asturian,ESP
+ata,Atacamenos,CHL
+ath,Athabaskan,"CAN, USA"
+aus,Australians,AUS
+auu,Austrians,"AUS, AUT, ARG, CAN, CHE, CZE, DEU, GBR, GRC, HUN, ITA, NZL, SWE, USA, ZAF"
+awa,Awadhi,IND
+aym,Aymara,"BOL, CHL, PER"
+znd,Azande (Azande-Mangbetu),"CAF, COD, SDN"
+aze,Azerbaijani (Azeri),"AUT, AZE, BLR, CAN, DEU, GBR, IRN, KAZ, KGZ, LVA, NLD, RUS, TUR, UKR, USA, UZB"
+bad,Baganda,"CAN, GBR, SWE, UGA, ZAF, USA"
+bii,Bai,CHN
+bkn,Bakongo,"AGO, COD, COG"
+bkw,Bakweri,CMR
+bln,Balanta,"GMB, GNB, SEN"
+ban,Balinese,IDN
+blk,Balkars,"KAZ, RUS"
+bal,Baloch (Baluchis),"AFG, ARE, IRN, OMN, PAK"
+bmr,Bamar (Barman),"AUS, GBR, MMR, THA, SGP, MYS, GBR, AUS, USA"
+bam,Bambara,"BFA, GIN, MLI, NER, SEN"
+bai,Bamileke,CMR
+bnt,Bantu,"AGO, CMR, COD, NAM, TZA, ZAF, ZMB"
+bny,Banyarwanda,"COD, UGA"
+bar,Bari,SDN
+brb,Bariba,BEN
+bak,Bashkirs,"BLR, KAZ, KGZ, RUS, TJK, UKR, UZB"
+bas,Basoga (Bassa/Duala),"CMR, UGA"
+baq,Basque,"ARG, CHL, CRI, CUB, BOL, BRA, ESP, FRA, MEX, URY, USA, VEN"
+bst,Baster,NAM
+btk,Batak,IDN
+bke,Bateke,"COD, COG, GAB"
+bej,Beja,"EGY, ERI, SDN"
+bel,Belarusians (Byelorussians),"ARG, BEL, BLR, BRA, CAN, EST, GBR, ISR, KAZ, LTU, LVA, MDA, POL, RUS, UKR, USA"
+bem,Bemba,ZMB
+ben,Bengali-Hindu (Bengali),"BGD, GBR, IND, NPL, MMR, MYS, PAK, SWE, THA, USA"
+bni,Beni-Shugal-Gumez,ETH
+ber,Berber,"CAN, DZA, EGY, LBY, MAR, MLI, NER, TUN, USA"
+bte,Beti-Pahuin (Beti),"CMR, COG, GAB, GNQ, STP"
+bey,Beydan (White Moors),"DZA, LBY, MRT, MAR, TUN"
+bho,Bhojpuri,"FJI, GUY, IND, MUS, NPL, SUR, TTO"
+bik,Bicolano,PHL
+bih,Bihari,"BGD, FJI, GBR, GUY, IND, MUS, NPL, PAK, SUR, TTO, USA"
+byn,Bilen,ERI
+afa,Black-African (Africans),"BRA, COL, CRI, CUB, DZA, ECU, GBR, HTI, LBY, MEX, MLI, MRT, NIC, PER, TTO, USA, VEN, ZAF, ZWE"
+blg,Blang,"CHN, MMR, THA"
+bod,Bodo,IND
+bol,Bolivia,"BOL, CHL, PER, PRY"
+bon,Bonan,CHN
+bos,Bosniaks,"AUS, AUT, BEL, BIH, DEU, DNK, HRV, ITA, MKD, MTN, NOR, SRB, SVN, SWE, TUR, USA"
+brh,Brahui,"AFG, IRN, PAK"
+bre,Breton,"CAN, FRA"
+bra,Brijwasi,IND
+bug,Bugis,"IDN, MYS, SGP"
+bul,Bulgarian,"ALB, ARE, AUT, BEL, BGR, CAN, CZE, DEU, ESP, FRA, GBR, GRC, HUN, ITA, KAZ, MDA, PRT, ROM, RUS, SRB, TUR, UKR, ZAF"
+brk,Burakumin,JPN
+bua,Buryat,"KAZ, MNG, RUS, UZB, UKR"
+bsh,Bushmen (San),"BWA, NAM, ZAF"
+bou,Buyei,"CHN, VNM"
+cab,Cabindan-Mayombe,AGO
+cad,Caddo,USA
+cap,Cape Verdean,"CPV, GNB"
+cat,Catalan,"AND, ARG, CHL, CUB, DEU, ESP, FRA, ITA, MEX, VEN"
+ava,Caucasian Avars (Avars),"AZE, GEO, RUS"
+ceb,Cebuano,PHL
+chg,Chagatai,UZB
+cmc,Cham,"FRA, KHM, LAO, MYS, THA, USA, VNM"
+cha,Chamorro,"FSM, MNP, USA"
+che,Chechen,"AZE, EGY, GEO, IRN, IRQ, JOR, KAZ, RUS, SYR, TUR"
+chr,Cherokee,USA
+chw,Chewa,MWI
+nya,Chewa (Nyanja speakers),"MOZ, MWI, ZMB, ZWE"
+chy,Cheyenne,USA
+chl,Chileans,"ARG, BRA, CHL, DEU, ESP, FRA, SWE, USA, VEN"
+chi,Chinese (Mainland Chinese),"AUS, BRA, CAN, CHN, ESP, FRA, GBR, IDN, IND, ITA, KHM, KOR, LAO, MMR, MYS, NLD, NZL, PER, PHL, PRK, SGP, THA, USA, VNM, ZAF"
+chn,Chinook,USA
+chp,Chipewyan,CAN
+cho,Choctaw,USA
+cht,Ch'orti' (Chorti),"GTM, HND"
+chc,Chukchi,RUS
+chk,Chuukese,FSM
+chv,Chuvash,"BLR, KAZ, KGZ, MDA, RUS, TKM, UZB"
+col,Colombian,"ARG, AUS, BRA, CAN, COL, CRI, ESP, GBR, ISR, ITA, MEX, USA, VEN"
+rar,Cook Islands Maori,"COK, NZL"
+cor,Cornish,"AUS, CAN, GBR, MEX, NZL, USA, ZAF"
+cos,Corsican,FRA
+csr,Costa Ricans,"CRI, NIC, PAN"
+cot,Cotiers,MDG
+cre,Cree,"CAN, USA"
+crp,Creole,"BLZ, CPV, DMA, GLP, GMB, GNB, GNQ, HTI, JAM, LCA, MTQ, NGA, SEN, SLE, STP, TTO"
+crh,Crimean Tatar,"BGR, ROM, TUR, UKR, UZB"
+hrv,Croats,"ARG, AUS, AUT, BIH, CAN, CHE, CHL, DEU, DNK, FRA, HRV, HUN, ITA, MTN, NOR, ROM, SRB, SVN, SWE, USA, ZAF"
+cus,Cushitic,"EGY, KEN, SDN, SOM, TZA"
+cze,Czech,"ARG, AUS, AUT, BRA, CAN, CHE, CZE, DEU, ESP, FRA, GBR, HRV, ISR, IRL, ITA, MEX, NLD, POL, ROM, RUS, SRB, SVK, SVN, SWE, UKR, USA, ZAF"
+dai,Dai,"CHN, LAO, THA"
+dal,Dalit (Backward classes/castes),"BGD, IND, LKA, NPL, PAK"
+dam,Damara,NAM
+dan,Danes,"AUS, AUT, BRA, CAN, CHE, DEU, DNK, ESP, FRA, GBR, IRL, ISL, NOR, NZL, SWE, USA"
+dar,Dargwa (Dargins),RUS
+dau,Daur,CHN
+day,Dayak,"BRN, IDN, MYS"
+din,Dinka,SDN
+dje,Djerma-Songhai,NER
+doi,Dogras,"IND, PAK"
+dgr,Dogrib,CAN
+dom,Dominicans,"DOM, HTI, USA"
+don,Dong,"CHN, VNM"
+dox,Dongxiang,CHN
+dra,Dravidian,"IND, LKA, PAK"
+dru,Druze,"AUS, CAN, ISR, JOR, LBN, SYR, USA, VEN"
+dua,Duala,CMR
+dut,Dutch (Flemings),"AUS, CAN, BEL, BRA, NLD, NZL, USA, ZAF"
+dyu,Dyula,"BFA, GNB, MLI, SEN"
+ein,East Indian,"MYS, TTO"
+eat,East Timorese,"IDN, TMP"
+ecu,Ecuadorians,"CHL, COL, ECU, ESP, PER, PRY, USA, VEN"
+bin,Edo,NGA
+e,Ek,"CMR, NGA"
+eka,Ekajuk,NGA
+eng,English,"CAN, GBR, IRL, NZL, ZAF"
+cpe,English-Creole,"BLZ, JAM, NGA, SLE"
+esh,Eshira (Bapounou),GAB
+est,Estonian,"BEL, CAN, EST, FIN, GBR, IRL, LVA, NOR, RUS, SWE, UKR, USA"
+eur,Europeans,ZWE
+eve,Evenks,"CHN, RUS"
+ewe,Ewe,"BEN, GHA, TGO"
+ewo,Ewondo,CMR
+fan,Fang (Estuary Fang),"COG, GAB, GNQ"
+fat,Fante,GHA
+fao,Faroese,"DNK, ISL, NOR"
+j,Fijian,"AUS, FJI, GBR, NZL, USA"
+l,Filipino,"ARE, AUS, CAN, CHN, ESP, ISR, ITA, JPN, KOR, KWT, MYS, NGA, NLD, NOR, NZL, PAK, PHL, QAT, SAU, USA"
+u,Finno-Ugric,"CAN, EST, FIN, HUN, NZL, ROM, RUS, SVK, SWE, USA"
+n,Finns,"ARE, AUS, CAN, CHE, DEU, DNK, ESP, EST, FIN, FRA, NLD, NOR, RUS, SWE, USA"
+fon,Fon,"BEN, NGA"
+fre,French,"BEL, BRA, CAN, CHE, FRA, GBR, USA"
+cpf,French-Creole,"DMA, GLP, HTI, LCA, MTQ, TTO"
+frr,Frisians,DEU
+fur,Friulan,ITA
+ful,Fula (Fulani),"BEN, BFA, CAF, CIV, CMR, GIN, GMB, GNB, LBR, MRT, NER, NGA, SDN, SEN, SLE, TCD, TGO"
+fru,Fur,SDN
+ada,Ga (Ga-Adangbe),"CAN, DEU, GBR, GHA, TGO, USA"
+gla,Gaels,"GBR, IRL"
+glg,Galician,"AND, ARG, BRA, CHE, CUB, DEU, ESP, FRA, GBR, MEX, NLD, PRT, URY, USA, VEN"
+gar,Garifuna (Garifs),"BLZ, GTM, HND, NIC"
+gay,Gayo,IDN
+gba,Gbaya (Baya),"CAF, CMR, COD, COG"
+gel,Gelao (Gelo),CHN
+geo,Georgian,"ARM, AZE, BRA, CAN, FRA, GBR, GEO, GRC, ISR, ITA, KAZ, RUS, SGP, TUR, UKR, USA"
+ger,German,"ARG, AUS, AUT, BEL, BOL, BRA, CAN, CHE, CZE, DEU, DNK, ECU, ESP, FRA, GBR, GRC, HUN, ISR, ITA, KAZ, NAM, NOR, POL, ROM, RUS, URY, ZAF"
+gia,Gia Rai,VNM
+gin,Gin (Jing),CHN
+gio,Gio,"CIV, LBR"
+gon,Gondi,IND
+gor,Gorontalonese (Gorontalos),IDN
+gra,Grasselders,CMR
+grb,Grebo,"CIV, LBR"
+gre,Greek,"ALB, ARG, AUS, BEL, BRA, CAN, CHE, CYP, DEU, FRA, GBR, GER, GRC, KAZ, ROM, RUS, SWE, UKR, USA, UZB"
+gun,Guan,GHA
+grn,Guarani,"ARG, BOL, BRA, PRY"
+gua,Guatemalan,"BLZ, CRI, GTM, HND, MEX, NIC, USA"
+guj,Gujarati,"AUS, CAN, GBR, IND, KEN, MDG, MUS, MWI, MYS, SGP, TTO, TZA, UGA, USA, ZAF"
+gwi,Gwich'in,"CAN, USA"
+had,Hadjerai,TCD
+hai,Haida,"CAN, USA"
+hat,Haitian,"DOM, ESP, FRA, HTI, USA"
+hni,Hani,"CHN, VNM"
+har,Harari,ETH
+hrt,Haratin (Black Moors),"MRT, MAR"
+hau,Hausa (Hausa-Fulani),"BEN, BFA, CIV, CMR, ERI, GHA, NER, NGA, SDN, TCD, TGO"
+haw,Hawaiian,USA
+haz,Hazara,"AFG, PAK"
+her,Herero,"AGO, BWA, NAM"
+hil,Hiligayon,PHL
+hgh,Hill Tribes,"MDG, THA"
+him,Himachali,IND
+hmo,Hiri Motu,PNG
+hmn,Hmong,"AUS, CAN, CHN, DEU, FRA, LAO, THA, USA, VNM"
+hoa,Hoa,VNM
+hon,Hondurans,"GTM, HND, MEX, SLV, USA"
+hui,Hui,CHN
+hun,Hungarian,"BRA, CAN, CHL, CZE, GBR, HRV, HUN, IRL, MKD, ROM, RUS, SRB, SVK, SVN, TUR, UKR, USA"
+hup,Hupa,USA
+hut,Hutu,"BDI, COD, RWA"
+iba,Iban,IDN
+ice,Icelanders,"CAN, ISL, NOR, USA"
+ibo,Igbo,"CMR, GBR, GHA, GNQ, JAM, JPN, NGA, SLE, TTO, USA"
+ijo,Ijaw,NGA
+ilo,Ilocono,"PHL, USA"
+idn,Indian,"ARE, AUS, BHR, CAN, FRA, GBR, GUY, IND, KWT, MMR, MUS, NPL, SGP, OMN, SAU, USA, TTO, ZAF"
+idg,Indigenous,"PHL, MEX, COL, ECU, LBR, CAN, USA"
+ind,Indonesian,"ARE, AUS, CAN, IDN, JPN, KOR, MYS, NLD, PHL, SAU, SGP, SUR, USA"
+inh,Ingush,"KAZ, RUS, TUR"
+iku,Inuit,CAN
+ipk,Inupiat,"CAN, USA"
+ira,Iranian,"ARE, AUS,AUT, CAN, CHE, BHR, DEU, DNK, ESP, FRA, GBR, IRN, ISR, ITA, JPN, KWT, MYS, NLD, NOR, PHL, RUS, TUR, SWE, USA"
+gle,Irish,"ARG, AUS, CAN, GBR, IRL, MEX"
+iro,Iroquois,"CAN, USA"
+ita,Itallian,"AUT, CHE, DEU, ESP, FRA, HRV, ITA, SVN, USA"
+jpn,Japanese,"ARG, AUS, BOL, BRA, CAN, CHL, CHN, DEU, FSM, GBR, IDN, ITA, JPN, KOR, MEX, NZL, PER, PHL, PRY, SGP, THA, USA, VNM"
+jav,Javanese,"IDN, MYS, NLD, SUR"
+jew,Jewish,"ARG, CAN, ISR, IRN, POL, RUS, USA"
+jin,Jino (Jinuo),CHN
+jol,Jola (Diola),"GMB, GNB, SEN"
+kbd,Kabarday (Kabardins),"GEO, JOR, RUS, TUR"
+kby,Kabye (Kabre),TGO
+kab,Kabyle,"CAN, DZA, FRA, USA"
+kac,Kachin,"CHN, IND, MMR"
+kad,Kadazan,MYS
+kak,Kakwa-Nubian,UGA
+kal,Kalaallit,DNK
+car,Kali'na,"BRA, GUY, SUR, VEN"
+xal,Kalmyk,"CHN, MNG, RUS"
+kam,Kamba,KEN
+kan,Kannada,IND
+kau,Kanuri (Kanouri),"CMR, NER, NGA, TCD"
+kao,Kaonde,"COD, ZMB"
+pam,Kapampangan,"CAN, PHL, USA"
+kch,Karachays (Karachai),"KAZ, RUS, SYR, TUR, USA"
+kaa,Karakalpak,"KAZ, RUS, TKM, TUR, UZB"
+krm,Karamojong,UGA
+krl,Karelians,"BLR, EST, FIN, RUS"
+kar,Karen (Kayin),"MMR, THA"
+kas,Kashmiri,"GBR, IND, PAK"
+csb,Kashubian,"CAN, DEU, POL"
+kav,Kavango,NAM
+kaz,Kazakhs,"CHN, DEU, IRN, KAZ, KGZ, MNG, RUS, TKM, UKR, UZB"
+khk,Khakas,RUS
+kha,Khasi,IND
+khm,Khmer (Khmer Loei),"AUS, BEL, CAN, FRA, KHM, KOR, LAO, MYS, NZL, THA, USA, VNM"
+khu,Khmu,"CHN, LAO, MMR, THA, USA, VNM"
+khi,Khoikhoi,"NAM, ZAF"
+kik,Kikuyu,KEN
+kin,Kinyarwanda Speakers,COD
+gil,Kiribati,"FJI, KIR, MHL, NRU, SLB, TUV, VUT"
+kis,Kisii,KEN
+kok,Kokani,IND
+kom,Komi (Komi-Permyaks),RUS
+kon,Kongo (Bakongo),"AGO, COD, COG"
+kno,Kono,SLE
+kor,Korean,"ARG, AUS, BRA, CAN, CHN, DEU, FRA, GBR, IDN, IND, JPN, KAZ, KGZ, KHM, KOR, MYS, NZL, PHL, PRK, RUS, SGP, THA, UKR, USA, UZB, VNM"
+kos,Kosraean,FSM
+kou,Kouyou,COG
+kpe,Kpelle (Guerze),"GHA, LBR"
+krh,Krahn (Guere),LBR
+kro,Kru,"CIV, LBR"
+kut,Ktunaxa,"CAN, USA"
+kum,Kumyks,RUS
+kur,Kurd,"ARM, AZE, DEU, FRA, GBR, IRN, IRQ, ISR, LBN, NLD, SWE, SYR, TKM, TUR"
+brm,Kurichiya (Hill Barhmins),"IND, NPL"
+kru,Kurukh,"BGD, IND"
+kua,Kwanyama,"AGO, NAM"
+kir,Kyrgyz (Kirghis/Kirgiz),"CHN, KGZ, RUS, TJK, TUR, UKR, UZB"
+lhu,Lahu,"CHN, LAO, MMR, THA, VNM"
+lak,Lak (Russia),RUS
+lam,Lamba,"BEN, TGO"
+lao,Lao,"CHN, KHM, LAO, MMR, MYS, THA, VNM"
+lar,Lari,COG
+ltn,Latinos,"CAN, USA"
+ltk,Latoka,SDN
+lav,Latvian,"BRA, CAN, DEU, ESP, EST, GBR, IRL, KAZ, LTU, LVA, NOR, NZL, RUS, SWE, UKR, USA"
+del,Lenape,"CAN, USA"
+len,Lenca,"HND, SLV"
+lez,Lezgian (Lezgins),"AZE, RUS"
+lii,Li,CHN
+lba,Limba,"CMR, SLE"
+lim,Limburgian,"BEL, DEU, NLD"
+lin,Lingala,"COD, COG"
+lsu,Lisu,"CHN, IND, MMR, THA"
+lit,Lithuanian,"AUT, BLR, BRA, CAN, DEU, ESP, FRA, IRL, ISL, LTU, LVA, POL, RUS, USA, ZAF"
+lom,Lomwe (Nguru),"MOZ, MWI"
+lov,Lovale,"AGO, ZAM"
+dsb,Lower Sorbian,DEU
+loz,Lozi (Barotse),"AGO, BWA, NAM, ZMB"
+lua,Luba-Kasai,COD
+lub,Luba-Katanga,COD
+lgb,Lugbara,"COD, UGA"
+luh,Luhya,"KEN, TZA, UGA"
+lui,Luiseno,USA
+lul,Lulua,COD
+mno,Lumad,PHL
+lun,Lunda,"AGO, COD, ZMB"
+luo,Luo,"COD, ETH, KEN, SDN, TZA, UGA"
+lus,Lusei,"BGD, IND, MMR"
+ltz,Luxembourgers,"ARG, BEL, BRA, FRA, LUX, USA"
+mas,Maasai,"KEN, TZA"
+mac,Macedonian,"ALB, AUS, BEL, BIH, CHE, CZE, DEU, DNK, FRA, GBR, GRC, HRV, HUN, ITA, MKD, NOR, SRB, SVK, SVN, SWE, TUR, USA"
+mdh,Madhesi,NPL
+mdi,Madi,"SDN, UGA"
+mad,Madurese (Madura),IDN
+maf,Mafwe,"IDN, NAM"
+mag,Magahi,IND
+mai,Maithili,"IND, NPL"
+mak,Makassarese,IDN
+mok,Makonde (Makonde-Yao),"MOZ, TZA"
+mlg,Malagasy,MDG
+mal,Malayalam,"AUS, CAN, IND, PAK, SAU, THA, USA, ZAF"
+may,Malays,"BRN, IDN, MYS, SGP, THA"
+div,Maldivian,MDV
+mlt,Maltese,"AUS, CAN, GBR, MLT, USA"
+mng,Mananja-Nayanja,MWI
+mnc,Manchu,"CAN, CHN, JPN, PRK, RUS, USA"
+mdr,Mandar,IDN
+mnd,Mande,"BEN, BFA, CIV, GHA, GIN, GMB, GNB, LBR, MLI, MRT, NER, NGA, SEN, SLE, TCD"
+man,Mandinka (Mandigo/Mandingue),"BFA, CIV, GIN, GNB, LBR, MLI, MRT, NER, SEN, SLE, TCD"
+mni,Manipuri,IND
+mnj,Manjack (Manjaco),"GMB, GNB, SEN"
+mnn,Mano,LBR
+glv,Manx,"GBR, USA"
+mny,Manyika,"MOZ, ZWE"
+mon,Maonan,CHN
+mao,Maori,"AUS, CAN, GBR, NZL, USA"
+arn,Mapuche,"ARG, CHL"
+mar,Marathi,"AUS, IND, ISR, MUS, USA"
+chm,Mari,RUS
+mah,Marshallese,"MHL, NRU"
+mwr,Marwaris,IND
+myn,Maya,"BLZ, GTM, HND, MEX, SLV"
+mya,Mayangnas,"HND, NIC"
+mbk,M'Baka,"CAF, COD"
+mba,Mbandja,"CAF, COD, COG"
+mbe,Mbere (Mbede),"COG, GAB"
+mbo,Mbochi,COG
+mbu,Mbundu-Mestico,AGO
+men,Mende,SLE
+mtz,Mestizo,MEX
+mia,Miao,"CHN, FRA, LAO, THA, VNM"
+mij,Mijikenda,"KEN, SOM, TZA"
+mic,Mi'kmaq,"CAN, USA"
+mnh,Minahasa,IDN
+min,Minangkabau,"IDN, MYS"
+mwl,Mirandese,PRT
+msk,Miskito,"HND, NIC"
+miz,Mizo,"BGD, IND, MMR"
+moh,Mohajirs,PAK
+moh,Mohawk,USA
+mdf,Mokshas,RUS
+mld,Mole-Dagbani,GHA
+mns,Mon,"MMR, THA"
+lol,Mongo,COD
+mon,Mongol (Mongolians),"CHN, CZE, JPN, KOR, MNG, RUS"
+tuu,Mongour (Tu),CHN
+mtn,Montenegrins,"ALB, ARG, AUS, BIH, BRA, CAN, HRV, ITA, MKD, MTN, SRB, SVN, TUR"
+myv,Mordvins (Mordva),RUS
+mro,Moro,"BRN, IDN, MYS, PHL"
+mos,Mossi,"BFA, CIV, GHA"
+mlo,Mulao,CHN
+mla,Mulatto,HTI
+mun,Munda,IND
+muo,Muong,VNM
+mus,Muscogee,USA
+mye,Myene,GAB
+nag,Naga,"IND, MMR"
+nah,Nahua,MEX
+nax,Nakhi (Naxi),CHN
+nam,Nama,"BWA, NAM, ZAF"
+nai,Native American,"CAN, USA"
+nau,Nauruan,NRU
+nav,Navajo,USA
+ndo,Ndonga,"AGO, NAM"
+nap,Neapolitan,ITA
+nep,Nepali,"ARE, AUS, BTN, CAN, CHN, GBR, IND, JPN, KOR, MMR, MYS, NPL, PAK, QAT, SAU, USA"
+nze,New Zealanders,"ARE, AUS, CAN, DEU, FRA, GBR, IRL, JPN, NLD, NZL, USA"
+new,Newars,"BTN, CHN, IND, NPL"
+dzo,Ngalop,"BTN, IND"
+ngn,Ngbandi,"CAF, COD, COG"
+ngo,Ngoni,"MWI, TZA, ZMB"
+nir,Niari,COG
+nia,Niasans,IDN
+nib,Nibolek,COG
+nca,Nicaraguan,"CRI, GTM, HND, MEX, PAN, NIC, SLV"
+niu,Niuean,NIU
+nkm,Nkomi,GAB
+nog,Nogais,"BGR, KAZ, POL, ROM, RUS, TUR, UKR, UZB"
+kmb,North Mbundu,AGO
+nde,Northern Ndebele,"BWA, ZWE"
+nso,Northern Sotho,ZAF
+nor,Norwegians,"AUS, BRA, CAN, GBR, NOR, SWE, USA"
+nuu,Nu,CHN
+nba,Nuba,SDN
+nub,Nubian,"EGY, SDN"
+ner,Nuer,"ETH, SDN"
+nng,Nung,"CHN, VNM"
+nur,Nuristani,AFG
+nyk,Nyakyusa,"MWI, TZA"
+nym,Nyamwezi,TZA
+nyo,Nyoro,UGA
+nzi,Nzema,"CIV, GHA"
+oci,Occitanians,"ESP, FRA, ITA, MCO"
+ogo,Ogoni,NGA
+oji,Ojibwe,"CAN, USA"
+oki,Okinawan,JPN
+oru,Orgunu,GAB
+ori,Oriya,IND
+orm,Oromo,"AUS, CAN, DEU, DJI, EGY, ETH, GBR, KEN, SAU, SOM, USA, YEM"
+osa,Osage,USA
+oss,Ossetians (Ossetes),"AZE, GEO, KAZ, RUS, SYR, TJK, TKM, UKR, UZB"
+oto,Otomi,MEX
+ova,Ovambo,"AGO, NAM"
+pac,Pacic Islanders,"FJI, FSM, KIR, NRU, NZL, PLW, USA"
+ran,Pahari Rajput (Rana/Thakuri),"IND, NPL"
+pau,Palauan,PLW
+pal,Palestinian,"ARE, AUS, CAN, CHL, COL, DEU, EGY, GBR, ISR, IRQ, JOR, KWT, LBN, MEX, PAK, PER, QAT, SAU, SLV, SWE, SYR, USA, YEM"
+pnm,Panamanians,"COL, CRI, GTM, HND, NIC, PAN"
+pag,Pangasinan,PHL
+ppl,Papel,GNB
+pap,Papiamento-Creole,"ABW, NLD"
+paa,Papuan (Papua),"IDN, PNG"
+par,Paraguayan,"ARG, BOL, BRA, CHL, ESP, PRY, URY, USA"
+psh,Pashayi (Pashai),AFG
+pus,Pashtun,"AFG, ARE, CAN, GBR, IND, IRN, MYS, PAK, SGP, USA"
+pon,Pehnpeian,FSM
+per,Persian,"AFG, ARE, AUS, BEL, BHR, CAN, CHN, DEU, FRA, GBR, GRC, IND, IRN, ISR, ITA, JPN, KGZ, KOR, KWT, NOR, OMN, PAK, QAT, RUS, SWE, TJK, TUR, UZB, ZAF"
+pru,Peruvian,"BOL, BRA, CHL, ECU, PER, PRY, USA"
+pol,Poles,"AUT, AUS, BLR, CAN, CZE, DEU, ESP, FIN, FRA, GRC, IRL, ISL, ITA, KAZ, LTU, LVA, MDA, NLD, NOR, POL, ROM, RUS, SWE, UKR, USA, ZAF"
+pom,Pomaks,"ALB, BGR, GRC, MKD, TUR"
+por,Portuguese,"AGO, AUS, BEL, BRA, CAN, CHE, ESP, FRA, GBR, GUY, LUX, MOZ, PRT, USA, VEN, ZAF"
+cpp,Portuguese-Creole,"CPV, GMB, GNB, GNQ, SEN, STP"
+pum,Pumi,CHN
+pan,Punjabi,"ARE, CAN, CHN, GBR, IND, MYS, PAK, RUS, SAU, USA, ZAF"
+phu,Puthai (Phuthai),LAO
+qia,Qiang,CHN
+qiz,Qizilbash,"AFG, IND, PAK"
+que,Quechua,"ARG, BOL, CHL, COL, ECU, PER"
+raj,Rajasthani,IND
+bda,Rakhine (Buddist Arakanese),"BGD, IND, MMR"
+rap,Rapa Nui,CHL
+rom,Romani (Roma),"BGR, BIH, CZE, ESP, FRA, GBR, GRC, HRV, HUN, MKD, POL, ROM, RUS, SVK, TUR"
+rum,Romanian,"AUS, AUT, CAN, DEU, ESP, FRA, GBR, GRC, HUN, KAZ, MDA, ROM, RUS, SRB, SWE, UKR, USA"
+roh,Romansh,CHE
+run,Rundi,BDI
+rus,Russian,"ARM, AUS, BLR, BRA, CAN, CHN, EST, FIN, GBR, GEO, ISR, ITA, KAZ, KGZ, LTU, LVA, MDA, RUS, TJK, TKM, UKR, USA, UZB"
+slr,Salar,CHN
+sal,Salish,"CAN, USA"
+smi,Sami,"FIN, NOR, RUS, SWE"
+smo,Samoans,"AUS, NZL, USA, WSM"
+sad,Sandawe,TZA
+sag,Sango,"CAF, COD, TCD"
+fri,Santals,"BGD, BTN, IND, NPL"
+sar,Sara,"CAF, TCD"
+srd,Sardinian,"ARG, DEU, ITA, USA"
+sas,Sasak,IDN
+sco,Scottish (Scots),"ARG, AUS, CAN, CHL, GBR, NZL, USA"
+sel,Selkup,RUS
+sen,Sena,MWI
+srp,Serbs,"ALB, BIH, CHE, DEU, DNK, FRA, GBR, GRC, HRV, HUN, ITA, MKD, MTN, ROM, RUS, SRB, SVN, SWE, TUR, USA"
+srr,Serer,"GMB, MRT, SEN"
+shy,Shaigiya,SDN
+shn,Shan,"KHM, MMR, THA"
+she,She,CHN
+shl,Shilluk,SDN
+sna,Shona (Ndau),"MOZ, ZWE"
+scn,Sicilian,ITA
+sid,Sidama,ETH
+bla,Siksikawa,CAN
+snd,Sindhi,"CHN, IND, PAK"
+sin,Sinhalese,"AUS, CAN, GBR, IND, ITA, LKA, MYS, NZL, SGP, USA"
+sio,Siouan,"CAN, USA"
+dak,Sioux,USA
+sla,Slavic,"BIH, BLR, CZE, HRV, MKD, MTN, POL, RUS, SRB, SVK, SVN, UKR"
+slo,Slovaks,"AUS, AUT, BEL, CAN, CZE, DEU, FRA, GBR, HRV, HUN, IRL, POL, ROM, SRB, SVK, UKR"
+slv,Slovenes,"ARG, AUT, BEL, BIH, BRA, CAN, CHE, DEU, FRA, HUN, NLD, ITA, SRB, SVN, URY, USA"
+som,Somali,"ARE, CAN, DJI, DNK, ETH, GBR, KEN, SAU, SOM, SWE, USA, YEM"
+son,Songhai,"MLI, NER"
+snk,Soninke,"GHA, GMB, GNB, MLI, MRT, SEN"
+wen,Sorbs,DEU
+sot,Sotho,"LSO, ZAF"
+nbl,South Ndebele,ZAF
+umb,Southern Mbundu,AGO
+spa,Spanish,"ARG, AUS, BRA, CHE, CUB, DEU, ESP, FRA, GBR, MEX, PER, URY, VEN"
+srn,Sranan Tongo,SUR
+bsu,Subiya (Basubia),"BWA, NAM, ZMB"
+sat,Sudanese,"IDN, SDN"
+sui,Sui,"CHN, VNM"
+suk,Sukama,TZA
+sus,Susu,"GIN, SEN, SLE, MLI"
+swa,Swahili,"TZA, KEN, MOZ, COM"
+ssw,Swazi,"LSO, MOZ, SWZ, ZAF"
+swe,Swedes,"AUS, CAN, DEU, DNK, ESP, FIN, FRA, GBR, ITA, NOR, SWE"
+swf,Swiss French,CHE
+gsw,Swiss Germans,"AUT, CHE, DEU, ITA"
+swt,Swiss Italian,CHE
+tab,Tabasaran,RUS
+tgl,Tagalog,PHL
+tah,Tahitian,PYF
+tai,Tai (Tha/Tai-Lu/Tai-Yuan),"CHN, LAO, MMR, THA, VNM"
+twn,Taiwanese,"AUS, CAN, CHN, JPN, KOR, PHL, SGP"
+tgk,Tajik (Pamir Tajiks),"AFG, CAN, CHN, DEU, IRN, KGZ, PAK, QAT, RUS, TJK, UZB, USA"
+tms,Tama,"SDN, TCD"
+tam,Tamil,"IND, LKA, MYS"
+tat,Tatars,"AZE, BLR, CHN, EST, FIN, GEO, KAZ, LTU, LVA, MDA, POL, ROM, RUS, TJK, TKM, TUR, UKR, USA, UZB"
+taw,Tawahka,HND
+tay,Tay,VNM
+tel,Telugu,IND
+tem,Temne,SLE
+ter,Terenan,BRA
+trn,Ternate,IDN
+tes,Teso,"KEN, UGA"
+tet,Tetum,"AUS, IDN, PRT, TMP"
+tha,Thai,"AUS, CHN, FRA, JPN, KHM, LAO, MMR, MYS, SGP, THA, VNM, USA"
+tib,Tibetan,"BTN, CAN, CHE, CHN, IND, NPL, USA"
+tir,Tigray-Tigrinya (Tigry),"DJI, ERI, ETH, ISR, ITA, SDN, YEM"
+tig,Tigre,"ERI, SDN"
+tiv,Tiv,"CMR, NGA"
+tli,Tlingit,"CAN, USA"
+tpi,Tok Pisin,PNG
+tkl,Tokelauan,TKL
+tog,Tonga (Africa),"MOZ, MWI, ZMB"
+ton,Tonga (Pacic),TON
+tor,Tooro,UGA
+tou,Toubou,"LBY, NER, SDN, TCD"
+tra,Transnistrians,"MDA, RUS"
+tri,Tripuri,"BGD, IND"
+tsi,Tsimshian,"CAN, USA"
+tso,Tsonga (Tsonga-Chopi),"MOZ, SWZ, ZAF, ZWE"
+tsn,Tswana,"BWA, ZAF"
+tmh,Tuareg,"BFA, DZA, LBY, MLI, NER"
+tuj,Tujia,CHN
+tum,Tumbuka,"MWI, TZA, ZMB"
+tup,Tupi (Tupi-Guarani),"ARG, BRA, PRY, URY"
+tur,Turkish (Turks),"AUS, AUT, AZE, BEL, BGR, BIH, CAN, CHE, CYP, DEU, DNK, EGY, FRA, GBR, GRC, IRQ, KAZ, LBN, MKD, NLD, ROM, RUS, SAU, SWE, SYR, TUR, USA"
+tuk,Turkmen,"AFG, IRN, IRQ, SYR, TKM"
+tts,Tutsi (Tutsi-Banyamulenge),"BDI, COD, RWA"
+tvl,Tuvaluans,TUV
+tyv,Tuvans (Tuvinians),"CHN, MNG, RUS"
+udm,Udmurt,RUS
+ukr,Ukranian,"ARG, ARM, AZE, BLR, EST, GEO, GRC, ITA, KAZ, KGZ, LTU, LVA, MDA, POL, RUS, UKR, USA"
+hsb,Upper Sorbian,DEU
+bis,Urban ni-Vanautu,VUT
+urd,Urdu,"IND, PAK"
+uig,Uyghur (Uighur),"CHN, KAZ, KGZ, RUS"
+uzb,Uzbeks,"AFG, CHN, KGZ, MNG, PAK, RUS, TKM, TJK, USA, UZB"
+vaa,Va (Wa),"CHN, MMR"
+vai,Vai,"LBR, SLE"
+ven,Venda,"ZAF, ZWE"
+vnz,Venezuelan,"CAN, COL, ESP, GBR, USA, VEN"
+vie,Vietnamese (Kinh),"AUS, CAN, CHN, CZE, FIN, FRA, JPN, KHM, LAO, MYS, NLD, NOR, PHL, POL, RUS, THA, USA, VNM"
+vil,Vili,COG
+vot,Votes,"EST, RUS"
+wak,Wakashan,CAN
+wln,Walloons,"ARG, BEL, BRA, USA"
+war,Waray,"CAN, DEU, PHL, USA"
+was,Washoe,USA
+wal,Welayta,ETH
+wel,Welsh,"ARG, AUS, CAN, GBR, IRL, NZL, USA"
+whi,Whites,"ARG, AUS, BRA, CAN, CHL, CRI, CUB, DEU, MEX, MLI, NAM, PER, URY, USA"
+wol,Wolof,"GMB, MRT, SEN"
+xho,Xhosa,ZAF
+xib,Xibe,CHN
+xnc,Xinca,GTM
+sah,Yakuts,"CAN, CHN, RUS, UKR, USA"
+yao,Yao (Africa),MWI
+dao,Yao (Asia) (Dao),"CHN, LAO, THA, VNM"
+yap,Yapese,FSM
+iii,Yi,CHN
+yor,Yoruba,"BEN, GHA, NGA, TGO"
+yug,Yugur,CHN
+ypk,Yupik,"RUS, USA"
+zag,Zaghawa,"SDN, TCD"
+zay,Zaidiyya (Zaydis),"SAU, YEM"
+zap,Zapotec,MEX
+zza,Zaza,"DEU, GEO, KAZ, NLD, TUR"
+zen,Zenaga,"MAR, MRT"
+zha,Zhuang,CHN
+zom,Zomi (Chins),"BGD, IND, MMR"
+zul,Zulu,ZAF
+zun,Zuni,USA

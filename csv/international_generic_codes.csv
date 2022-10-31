@@ -1,0 +1,8 @@
+international_actor_generic_code,international_actor_generic,international_actor_generic_example,international_actor_generic_full_code
+IGO,International or regional Inter-governmental organization,"The United Nations, World Trade Organization","IGOUNO, IGOWTO"
+IMG,International or regional International Militarized Groups,"al-Qaeda, Abu Sayaaf","IMGMOSALQ, IMGSEAMOSASF"
+INT,"International or transnational actors who cannot be further specified as IGO, UIS, NGO, NGM, or MNC","International Envoy, International Observer, World Community",INT
+MNC,Multi-national corporations,"Halliburton, Multinational Firm, Shell Oil Company",MNC
+NGM,Non-governmental movements,"Greenpeace, Anti-WTO Activists, Human Rights Advocates","NGMENVGRP, NGM"
+NGO,Non-governmental organizations,"Aid Worker, Amnesty International, Red Cross","NGO, NGOHRIAMN, NGOHLHIRC"
+UIS,Unidentified state actors,"Foreign Diplomat, World Governments",UIS
